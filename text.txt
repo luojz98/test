@@ -1,2 +1,4 @@
 hello world
 something new
+
+new_feature
